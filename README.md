@@ -1,2 +1,5 @@
 # reverse_proxy
-nginx reverse proxy within a kubernetes cluster
+
+## Goal
+
+Create a kubernetes cluster that runs nginx locations within different pods.
